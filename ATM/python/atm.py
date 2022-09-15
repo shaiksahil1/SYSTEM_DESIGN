@@ -128,7 +128,10 @@ while(True):
             print("********************************************************\n")
             print("Invalid Account number\n")
             print("********************************************************\n")
+    elif choice==2:
+        break
     else:
+        print("Give a valid input")
         break
         
     
